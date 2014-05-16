@@ -8,6 +8,9 @@ SQL = MySQL
   - 
 SQL dump is quickmobile.sql
 
+Comments 
+
+I decided to complete it in Laravel because it was the most recent framework that I have worked with and for time sake I chose it. In review I would have spent more time on the actual shortening of the URL, I think I could be a bit more creative with this. I left the SQL simple and did not save the original SQL that I wrote to create the table. 
 
 
 
